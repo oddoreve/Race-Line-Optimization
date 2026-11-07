@@ -292,7 +292,7 @@ The estimated lap times and fuel consumption depend on the assumed vehicle param
 
 **Your Name**
 
-GitHub: [YOUR-GITHUB-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: [oddoreve](https://github.com/oddoreve)
 
 ---
 
